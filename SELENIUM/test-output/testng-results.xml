@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[allu arjun]]>
+    </line>
+    <line>
+      <![CDATA[vicky]]>
+    </line>
+    <line>
+      <![CDATA[puneeth]]>
+    </line>
+    <line>
+      <![CDATA[yash]]>
+    </line>
+    <line>
+      <![CDATA[mahesh]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-27T15:29:13 IST" name="Suite" finished-at="2024-07-27T15:29:49 IST" duration-ms="35871">
+    <groups>
+      <group name="pan India">
+        <method signature="Alluarjun.excuteScript()[pri:0, instance:com.GroupExcutionclass.Alluarjun@5677323c]" name="excuteScript" class="com.GroupExcutionclass.Alluarjun"/>
+        <method signature="yash.excuteScript()[pri:0, instance:com.GroupExcutionclass.yash@1a942c18]" name="excuteScript" class="com.GroupExcutionclass.yash"/>
+      </group> <!-- pan India -->
+      <group name="tollywood">
+        <method signature="Alluarjun.excuteScript()[pri:0, instance:com.GroupExcutionclass.Alluarjun@5677323c]" name="excuteScript" class="com.GroupExcutionclass.Alluarjun"/>
+        <method signature="MAheshbabu.excuteScript()[pri:0, instance:com.GroupExcutionclass.MAheshbabu@55a147cc]" name="excuteScript" class="com.GroupExcutionclass.MAheshbabu"/>
+      </group> <!-- tollywood -->
+      <group name="Bollywood">
+        <method signature="Vickykausal.excuteScript()[pri:0, instance:com.GroupExcutionclass.Vickykausal@368247b9]" name="excuteScript" class="com.GroupExcutionclass.Vickykausal"/>
+      </group> <!-- Bollywood -->
+      <group name="KFI">
+        <method signature="puneeth.excuteScript()[pri:0, instance:com.GroupExcutionclass.puneeth@1a6d8329]" name="excuteScript" class="com.GroupExcutionclass.puneeth"/>
+        <method signature="yash.excuteScript()[pri:0, instance:com.GroupExcutionclass.yash@1a942c18]" name="excuteScript" class="com.GroupExcutionclass.yash"/>
+      </group> <!-- KFI -->
+    </groups>
+    <test started-at="2024-07-27T15:29:13 IST" name="Test" finished-at="2024-07-27T15:29:49 IST" duration-ms="35871">
+      <class name="com.GroupExcutionclass.yash">
+        <test-method signature="excuteScript()[pri:0, instance:com.GroupExcutionclass.yash@1a942c18]" started-at="2024-07-27T15:29:33 IST" name="excuteScript" finished-at="2024-07-27T15:29:41 IST" duration-ms="7864" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[yash]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- excuteScript -->
+      </class> <!-- com.GroupExcutionclass.yash -->
+      <class name="com.GroupExcutionclass.Vickykausal">
+        <test-method signature="excuteScript()[pri:0, instance:com.GroupExcutionclass.Vickykausal@368247b9]" started-at="2024-07-27T15:29:20 IST" name="excuteScript" finished-at="2024-07-27T15:29:26 IST" duration-ms="5877" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vicky]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- excuteScript -->
+      </class> <!-- com.GroupExcutionclass.Vickykausal -->
+      <class name="com.GroupExcutionclass.puneeth">
+        <test-method signature="excuteScript()[pri:0, instance:com.GroupExcutionclass.puneeth@1a6d8329]" started-at="2024-07-27T15:29:26 IST" name="excuteScript" finished-at="2024-07-27T15:29:33 IST" duration-ms="6656" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[puneeth]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- excuteScript -->
+      </class> <!-- com.GroupExcutionclass.puneeth -->
+      <class name="com.GroupExcutionclass.Alluarjun">
+        <test-method signature="excuteScript()[pri:0, instance:com.GroupExcutionclass.Alluarjun@5677323c]" started-at="2024-07-27T15:29:13 IST" name="excuteScript" finished-at="2024-07-27T15:29:20 IST" duration-ms="7325" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[allu arjun]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- excuteScript -->
+      </class> <!-- com.GroupExcutionclass.Alluarjun -->
+      <class name="com.GroupExcutionclass.MAheshbabu">
+        <test-method signature="excuteScript()[pri:0, instance:com.GroupExcutionclass.MAheshbabu@55a147cc]" started-at="2024-07-27T15:29:41 IST" name="excuteScript" finished-at="2024-07-27T15:29:49 IST" duration-ms="8058" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[mahesh]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- excuteScript -->
+      </class> <!-- com.GroupExcutionclass.MAheshbabu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
